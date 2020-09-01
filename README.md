@@ -1,7 +1,5 @@
 # iOS-Code-Challenge
 <br>
-
-## The Challenge
 Develop a **Swift** App, to download, save, and display contents of a list.
 
 *Expected behavior:*

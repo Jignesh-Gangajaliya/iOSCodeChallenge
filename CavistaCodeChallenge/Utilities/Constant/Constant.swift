@@ -21,6 +21,12 @@ struct Cell {
     static let cavistaDetailsCell = "CavistaDetailsCell"
 }
 
+struct FilterType {
+    static let all = "All"
+    static let text = "Text"
+    static let image = "Image"
+}
+
 enum DetailType: String {
     case image = "image"
 }
